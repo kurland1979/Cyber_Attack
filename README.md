@@ -66,7 +66,7 @@ The model successfully addresses class imbalance:
 
 ## 📝 Documentation
 
-For detailed analysis and methodology, see: [Project Report](Cyber_Attack_Detection_Report.pdf)
+For detailed analysis and methodology, see: [Project Report](Cyber_Attack_Report.pdf)
 
 ## 👩‍💻 Author
 
@@ -78,4 +78,5 @@ First professional deep learning project, completed with GPU support from Lightn
 
 ## Dataset Access
 Dataset download: https://drive.google.com/drive/folders/1i1dAEFAEjNcT9PTER_8qqk6vklWj_iJV?usp=sharing
+
 
