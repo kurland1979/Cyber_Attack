@@ -1,0 +1,8 @@
+﻿*.pyc
+__pycache__/
+.dvc/cache
+.dvc/tmp
+.dvc/plots
+/dataset
+
+dataset_backup/
