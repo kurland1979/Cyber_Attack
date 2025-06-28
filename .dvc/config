@@ -1,4 +1,10 @@
 [core]
-    remote = mydrive
+    remote = local_storage
 ['remote "mydrive"']
     url = gdrive://1yfaX9Xz3JoBhI_H9V1hklleFSQkmy--W
+['remote "myremote"']
+    url = gdrive://1i1dAEFAEjNcT9PTER_8qqk6vklWj_iJV
+    gdrive_client_id = 710796635688-iivsgbgsb6uv1fap6635dhvuei09o66c.apps.googleusercontent.com
+    gdrive_client_secret = a4xPJZ7uPvDBabXj9mqKI7gz
+['remote "local_storage"']
+    url = C:\DVC_Storage\Cyber_Attack
