@@ -75,3 +75,6 @@ Marina Kurland
 ## 🙏 Acknowledgments
 
 First professional deep learning project, completed with GPU support from Lightning AI.
+
+## Dataset Access
+Dataset download: https://drive.google.com/drive/folders/1i1dAEFAEjNcT9PTER_8qqk6vklWj_iJV?usp=sharing
